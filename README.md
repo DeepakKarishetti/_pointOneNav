@@ -108,12 +108,14 @@
 ## How to build and run:
 ```
 	$ git clone https://github.com/DeepakKarishetti/_pointOneNav.git
-	$ cd toyProblem_cpp
+	$ cd _pointOneNav
 	$ mkdir build && cd build
 	$ cmake ../ 
-	$ make && ./bin/ekf 
+	$ make 
+	
+	$ ./bin/ekf                  // to run the EKF algorithm 
 
-	$ ./bin/<unit-test-exe> // for unit test results
+	$ ./bin/<unit-test-exe>      // for unit test results
 ```
 
 ## Outputs:
