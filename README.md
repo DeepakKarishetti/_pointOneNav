@@ -107,7 +107,7 @@
 
 ## How to build and run:
 ```
-	$ git clone https://github.com/DeepakKarishetti/pointOneNav.git
+	$ git clone https://github.com/DeepakKarishetti/_pointOneNav.git
 	$ cd toyProblem_cpp
 	$ mkdir build && cd build
 	$ cmake ../ 
